@@ -7,7 +7,7 @@ CUSTOM-BUILT N-TO-1 SEQ2SEQ MODEL WITH ATTENTION:
 GloVe embeddings.
 Encoder layer- Bidirectional GRU, embedding.
 
-Attention layer- Hierarchical attention network.
+Attention layer- Hierarchical attention network (on colab)
 
 The attention layer consists of feeding vectors of hidden states into a learning function which is a feed-forward neural network that produces a probability vector. This is used along with the weighted average of the hidden layer vectors to compute the context vector for this attention-based model.
 
