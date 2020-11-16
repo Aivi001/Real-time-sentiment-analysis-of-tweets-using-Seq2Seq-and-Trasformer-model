@@ -1,5 +1,7 @@
 # Real-time-sentiment-analysis-of-tweets-using-Seq2Seq-and-Trasformer-model
-Comparison of custom n-to-1 seq2seq with attention mechanism and BERT transformer model in sentiment analysis of tweets coupled with open-source web-app for opinion-mining of real-time tweets.
+Comparison of custom n-to-1 seq2seq with attention mechanism and BERT transformer model in sentiment analysis of tweets coupled with open-source web-app for opinion-mining of real-time tweets. Pls refer to fyp_presentation for more insights. 
+
+BRIEF OVERVIEW:
 
 CUSTOM-BUILT N-TO-1 SEQ2SEQ MODEL WITH ATTENTION: 
 GloVe embeddings.
